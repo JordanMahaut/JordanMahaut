@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahaut Jordan</h1>
+<h2 align="center">I am 20 years old and I live in the north of France</h1>
 <h3 align="center">I am training as an application designer developer, in France</h3>
 
 - 📫 How to reach me **jordanmahaut09@gmail.com**
