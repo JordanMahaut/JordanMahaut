@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahaut Jordan</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3115F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahaut+Jordan" alt="Typing SVG" /></a></h1>
 <h2 align="center">I am 20 years old and I live in the north of France</h2>
 <h3 align="center">I am training as an application designer developer, in France</h3>
 
