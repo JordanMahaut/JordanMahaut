@@ -2,6 +2,8 @@
 <h2 align="center">I am 20 years old and I live in the north of France</h2>
 <h3 align="center">I am training as an application designer developer, in France</h3>
 
+- 🌱 I’m currently learning **ReactJS**
+
 - 📫 How to reach me **jordanmahaut09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -42,3 +44,13 @@
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> > 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmahaut&label=Profile%20views&color=0e75b6&style=flat" alt="jordanmahaut" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordanmahaut" alt="jordanmahaut" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanmahaut&show_icons=true&locale=en&layout=compact" alt="jordanmahaut" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanmahaut&show_icons=true&locale=en" alt="jordanmahaut" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanmahaut&" alt="jordanmahaut" /></p>
